@@ -10,6 +10,6 @@ Start:
     txs         ; Transfer the X register to the (S)tack pointer
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-; Clear the Pager Zero region ($00 ti $FF)
+; Clear the Page Zero region ($00 ti $FF)
 ; Meaning the entire RAM and also the entire TIA register
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
